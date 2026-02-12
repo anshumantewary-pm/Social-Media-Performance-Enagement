@@ -1,7 +1,3 @@
-Here is a clean, professional, copy-paste ready version without emojis or extra styling.
-
----
-
 # Social Media Performance Dataset – README
 
 ## Overview
